@@ -1,4 +1,4 @@
-%%% PROGRAM TO ANALYSE DATA RECORDED USING DCA1000 AND AWR1243 for the file saved in ppro/data1.
+%%% PROGRAM TO ANALYSE DATA RECORDED USING DCA1000 AND AWR1243/AWR2243
 clc; clear all; close all;
 
 %% global variables
